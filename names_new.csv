@@ -1,0 +1,81 @@
+1,subject
+2,activity
+3,body acceleration along x axis of phone
+4,body acceleration along y axis of phone
+5,body acceleration along z axis of phone
+6,gravity accelerattion along x axis of phone
+7,gravity accelerattion along y axis of phone
+8,gravity accelerattion along z axis of phone
+9,jerkot along x axis from phone ofphone
+10,jerkot along y axis from phone ofphone
+11,jerkot along z axis from phone of phone
+12,velocity gyroscope along x axis of phone
+13,velocity gyroscope along y axis of phone
+14,velocity gyroscope along z axis of phone
+15,velocity gyroscope jerkot along x axis of phone
+16,velocity gyroscope jerkot along y axis of phone
+17,velocity gyroscope jerkot along z axis of phone
+18,acceleration of phone
+19,gravity acceleration of phone
+20,jerkot gravity acceleration of phone
+21,velocity gyroscope of phone
+22,velocity gyroscope jerkot of phone
+23,fast fourier transformed body acceleration along x axis of phone
+24,fast fourier transformed body acceleration along y axis of phone
+25,fast fourier transformed body acceleration along z axis of phone
+26,fast fourier transformed acceleration frequency along x axis of phone
+27,fast fourier transformed acceleration frequency along y axis of phone
+28,fast fourier transformed acceleration frequency along z  axis of phone
+29,fast fourier transformed acceleration jerkot along x  axis of phone
+30,fast fourier transformed acceleration jerkot along y  axis of phone
+31,fast fourier transformed acceleration jerkot along z  axis of phone
+32,fast fourier transformed frequency jerkot along x  axis of phone
+33,fast fourier transformed frequency jerkot along y axis of phone
+34,fast fourier transformed frequency jerkot along z  axis of phone
+35,fast fourier transformed gyroscope velocity along x  axis of phone
+36,fast fourier transformed gyroscope velocity along y  axis of phone
+37,fast fourier transformed gyroscope velocity along z  axis of phone
+38,fast fourier transformed gyroscope frequency  along x  axis of phone
+39,fast fourier transformed gyroscope frequency  along y axis of phone
+40,fast fourier transformed gyroscope frequency  along z  axis of phone
+41,fast fourier transformed acceleration  of phone
+42,fast fourier transformed  frequency  of phone
+43,fast fourier transformed  acceleration jerkot  of phone
+44,fast fourier transformed  jerkot  frequency of phone
+45,fast fourier transformed  velocity gyroscope of phone
+46,fast fourier transformed  velocity gyroscope frequency of phone
+47,fast fourier transformed  velocity gyroscope jerkot of phone
+48,fast fourier transformed  velocity gyroscope jerkot frequency  of phone
+49,body acceleration standard deviation  along x axis of phone
+50,body acceleration standard deviation  along y axis of phone
+51,body acceleration standard deviation  along z axis of phone
+52,gravity acceleration standard deviation  along x axis of phone
+53,gravity acceleration standard deviation  along y axis of phone
+54,gravity acceleration standard deviation  along z axis of phone
+55,body acceleration jerkot standard deviation  along x axis of phone
+56,body acceleration jerkot standard deviation  along y axis of phone
+57,body acceleration jerkot standard deviation  along z axis of phone
+58,body acceleration gyroscope standard deviation  along x axis of phone
+59,body acceleration gyroscope standard deviation  along y axis of phone
+60,body acceleration gyroscope standard deviation  along z  axis of phone
+61,body acceleration gyroscope jerkot standard deviation  along x axis of phone
+62,body acceleration gyroscope jerkot standard deviation  along y axis of phone
+63,body acceleration gyroscope jerkot standard deviation  along z axis of phone
+64,body acceleration standard deviation 
+65,gravity acceleration standard deviation 
+66,body acceleration jerkot standard deviation 
+67,body acceleration gyroscope standard deviation 
+68,body acceleration gyroscope jerkot standard deviation 
+69,fast fourier transformed body acceleration standard deviation along x axis of phone
+70,fast fourier transformed body acceleration standard deviation along y axis of phone
+71,fast fourier transformed body acceleration standard deviation along z axis of phone
+72,fast fourier transformed jerkot acceleration standard deviation along x axis of phone
+73,fast fourier transformed jerkot acceleration standard deviation along y axis of phone
+74,fast fourier transformed jerkot acceleration standard deviation along z axis of phone
+75,fast fourier transformed velocity dyroscope standard deviation along x axis of phone
+76,fast fourier transformed velocity dyroscope standard deviation along y axis of phone
+77,fast fourier transformed velocity dyroscope standard deviation along z axis of phone
+78,fast fourier transformed body acceleration standard deviation
+79,fast fourier transformed body acceleration jerkot standard deviation
+80,fast fourier transformed velocity gyroscope standard deviation
+81,fast fourier transformed velocity gyroscope jerkot standard deviation
